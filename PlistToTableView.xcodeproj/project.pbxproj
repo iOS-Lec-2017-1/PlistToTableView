@@ -12,6 +12,7 @@
 		0502D0931F812BE700C6FF78 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0502D0911F812BE700C6FF78 /* Main.storyboard */; };
 		0502D0951F812BE700C6FF78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0502D0941F812BE700C6FF78 /* Assets.xcassets */; };
 		0502D0981F812BE700C6FF78 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0502D0961F812BE700C6FF78 /* LaunchScreen.storyboard */; };
+		0502D0A01F812DA000C6FF78 /* Address2.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0502D09F1F812DA000C6FF78 /* Address2.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0502D0941F812BE700C6FF78 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0502D0971F812BE700C6FF78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0502D0991F812BE700C6FF78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0502D09F1F812DA000C6FF78 /* Address2.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Address2.plist; path = ../../MapPinPListGeoCoding/MapPinPLiist/Address2.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				0502D08D1F812BE700C6FF78 /* AppDelegate.swift */,
 				0502D08F1F812BE700C6FF78 /* ViewController.swift */,
 				0502D0911F812BE700C6FF78 /* Main.storyboard */,
+				0502D09F1F812DA000C6FF78 /* Address2.plist */,
 				0502D0941F812BE700C6FF78 /* Assets.xcassets */,
 				0502D0961F812BE700C6FF78 /* LaunchScreen.storyboard */,
 				0502D0991F812BE700C6FF78 /* Info.plist */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0502D0A01F812DA000C6FF78 /* Address2.plist in Resources */,
 				0502D0981F812BE700C6FF78 /* LaunchScreen.storyboard in Resources */,
 				0502D0951F812BE700C6FF78 /* Assets.xcassets in Resources */,
 				0502D0931F812BE700C6FF78 /* Main.storyboard in Resources */,
